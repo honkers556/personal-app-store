@@ -1,5 +1,30 @@
 {
   "store_version": 1,
   "updated": "2026-04-17",
-  "apps": []
+  "apps": [
+    {
+      "id": "com.example.calculator",
+      "name": "Simple Calculator",
+      "description": "A lightweight calculator app with basic arithmetic operations.",
+      "version_name": "1.0.0",
+      "version_code": 1,
+      "apk_url": "https://github.com/honkers556/personal-app-store/releases/download/calculator-v1.0.0/calculator.apk",
+      "icon_url": "https://raw.githubusercontent.com/honkers556/personal-app-store/main/icons/calculator.png",
+      "category": "Utilities",
+      "changelog": "Initial release",
+      "size_bytes": 1500000
+    },
+    {
+      "id": "com.example.notepad",
+      "name": "Quick Notes",
+      "description": "Jot down notes and save them locally. Supports plain text and simple lists.",
+      "version_name": "2.1.0",
+      "version_code": 5,
+      "apk_url": "https://github.com/honkers556/personal-app-store/releases/download/notepad-v2.1.0/notepad.apk",
+      "icon_url": "https://raw.githubusercontent.com/honkers556/personal-app-store/main/icons/notepad.png",
+      "category": "Productivity",
+      "changelog": "Fixed crash on large files; added list mode",
+      "size_bytes": 2200000
+    }
+  ]
 }

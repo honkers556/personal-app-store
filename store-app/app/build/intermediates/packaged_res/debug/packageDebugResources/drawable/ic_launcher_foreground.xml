@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple shop/store bag icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,42 L66,34 C64,29 59,26 54,26 C49,26 44,29 42,34 L38,42 L30,42 L30,78 C30,80.2 31.8,82 34,82 L74,82 C76.2,82 78,80.2 78,78 L78,42 Z M54,30 C57.5,30 60.5,32 62,35.5 L65,42 L43,42 L46,35.5 C47.5,32 50.5,30 54,30 Z M46,52 C44.9,52 44,51.1 44,50 L44,46 C44,44.9 44.9,44 46,44 C47.1,44 48,44.9 48,46 L48,50 C48,51.1 47.1,52 46,52 Z M62,52 C60.9,52 60,51.1 60,50 L60,46 C60,44.9 60.9,44 62,44 C63.1,44 64,44.9 64,46 L64,50 C64,51.1 63.1,52 62,52 Z"/>
+</vector>
