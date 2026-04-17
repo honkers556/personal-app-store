@@ -1,0 +1,2 @@
+-keep class com.personal.appstore.data.model.** { *; }
+-keepattributes *Annotation*
