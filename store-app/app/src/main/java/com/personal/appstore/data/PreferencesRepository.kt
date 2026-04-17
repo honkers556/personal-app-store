@@ -13,7 +13,6 @@ class PreferencesRepository(context: Context) {
 
     companion object {
         private const val KEY_CATALOG_URL = "catalog_url"
-        // Replace with your GitHub Pages URL once the repo is created
-        const val DEFAULT_CATALOG_URL = "https://YOUR_USERNAME.github.io/personal-app-store/catalog.json"
+        const val DEFAULT_CATALOG_URL = "https://raw.githubusercontent.com/honkers556/personal-app-store/main/catalog.json"
     }
 }
